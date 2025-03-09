@@ -34,4 +34,4 @@ const App: React.FC = () => {
 };
 
 export default App;
-//impoprts and makes app work
+//impprts and makes app work
